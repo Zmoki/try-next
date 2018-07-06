@@ -4,6 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/Zmoki/try-next/issues"
   },
-  "homepage": "https://github.com/Zmoki/try-next#readme"
+  "homepage": "https://github.com/Zmoki/try-next#readme",
+  "dependencies": {
+    "next": "^6.1.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
 }
