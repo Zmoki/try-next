@@ -1,0 +1,19 @@
+{
+  "name": "try-next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zmoki/try-next.git"
+  },
+  "author": "Zarema Khalilova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zmoki/try-next/issues"
+  },
+  "homepage": "https://github.com/Zmoki/try-next#readme"
+}
